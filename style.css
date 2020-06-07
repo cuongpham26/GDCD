@@ -1,10 +1,17 @@
 body {
 	font-family: helvetica, arial, sans-serif; 
+	background-color: #92A8D1
 }
 
-#body_content{
-	margin: 0px 50px 15px 60px;
+header{
+	width: 90%;
+	margin: auto;
+}
+
+main{
+	width: 90%;
 	background-color: #c0c0c0;
+	margin: auto;
 }
 
 /* Style for navigation menu*/
@@ -44,7 +51,6 @@ h2{
 h3{
 	margin: 10px 0px 0px 40px;
 }
-
 
 ul {
 	margin: 10px 0px 0px 20px;
