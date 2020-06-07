@@ -16,7 +16,7 @@ li.navigation_menu {
   float: left;
 }
 
-li a {
+li.navigation_menu a {
   display: block;
   color: white;
   text-align: center;
