@@ -18,3 +18,28 @@ h3{
 ul {
 	margin: 10px 0px 0px 20px;
 }
+
+/* Style for navigation menu*/
+ul.navigation_menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li.navigation_menu {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li.navigation_menu a:hover {
+  background-color: #111111;
+}
