@@ -1,3 +1,7 @@
+body {
+	font-family: helvetica, arial, sans-serif; 
+}
+
 #body_content{
 	margin: 0px 50px 15px 60px;
 	background-color: #c0c0c0;
