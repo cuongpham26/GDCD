@@ -8,11 +8,13 @@ h1 {
 }
 
 h2{
-	margin: 20px 0px 0px 0px;
+	margin: 20px 0px 0px 20px;
 	color: #313D38;
 }
 
-p {
-	margin: 0px 20px;
-	color: #313D38;
+h3{
+	margin: 10px 0px 0px 40px;
+}
+ul {
+	margin: 10px 0px 0px 20px;
 }
